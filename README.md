@@ -1,3 +1,8 @@
+# react-graphql-github
+
+A basic github client built with react and apollo graphql client.
+This is a complete implementation of the client in the [ROAD-TO-GRAPHQL](https://github.com/the-road-to-graphql) book.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
